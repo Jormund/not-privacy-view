@@ -4,8 +4,7 @@
 // @version        1.0.1.20161003.4740
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
 // @description    [iitc-2016-10-03-004740] Hide info from intel which shouldn't leak to players of the other faction.
-// @updateURL      https://static.iitc.me/build/release/plugins/privacy-view.meta.js
-// @downloadURL    https://static.iitc.me/build/release/plugins/privacy-view.user.js
+// @downloadURL    https://github.com/Jormund/not-privacy-view/raw/master/not-privacy-view.user.js
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
 // @match          https://*.ingress.com/intel*
